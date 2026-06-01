@@ -24,7 +24,7 @@ A responsive image gallery application built using React, Axios, and Tailwind CS
 Add your project screenshots inside a `screenshots` folder and update the paths below.
 
 ```md
-![Home Page](screenshots/homepage.png)
+C:\Users\Admin\Desktop\React.js\11-gallery-project\screenshots\Screenshot (15).png
 ```
 
 ## Installation
@@ -75,3 +75,5 @@ Through this project, I practiced:
 ## Author
 
 Ashmit Kumar
+
+# Live Project
